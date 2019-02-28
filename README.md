@@ -1,1 +1,1 @@
-# new-laravel-templates
+# laravel-templates v2
